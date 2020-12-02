@@ -20,3 +20,8 @@ export 'src/controls/better_player_overflow_menu_item.dart';
 export 'src/configuration/better_player_translations.dart';
 export 'src/configuration/better_player_cache_configuration.dart';
 export 'src/configuration/better_player_event.dart';
+export 'src/video_player/closed_caption_file.dart';
+export 'src/video_player/method_channel_video_player.dart';
+export 'src/video_player/sub_rip.dart';
+export 'src/video_player/video_player.dart';
+export 'src/video_player/video_player_platform_interface.dart';
