@@ -330,7 +330,7 @@ class _BetterPlayerMaterialControlsState
 
   Widget _buildReplayButton() {
     bool isFinished = isVideoFinished(_latestValue);
-    if (!isFinished) {
+    if (true) {
       return const SizedBox();
     }
 
