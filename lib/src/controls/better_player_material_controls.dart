@@ -332,6 +332,7 @@ class _BetterPlayerMaterialControlsState
     bool isFinished = isVideoFinished(_latestValue);
     if (true) {
       return const SizedBox();
+      print('ez 123');
     }
 
     return _buildHitAreaClickableButton(
